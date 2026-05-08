@@ -1,0 +1,130 @@
+{
+  "-1002420837856": {
+    "id": -1002420837856,
+    "settings": {
+      "welcome": "👋 Selamat datang {mention} di *{group}*!\nSenang kamu bergabung 🎉",
+      "bye": "👋 Sampai jumpa *{name}*! Semoga sukses.",
+      "welcomeEnabled": true,
+      "byeEnabled": false,
+      "rules": "",
+      "antilink": true,
+      "antiflood": 0,
+      "antiforward": true,
+      "maxwarn": 3,
+      "locks": {
+        "sticker": false,
+        "gif": false,
+        "photo": false,
+        "video": false,
+        "audio": false,
+        "document": false,
+        "url": false,
+        "forward": false,
+        "bot": false
+      },
+      "antibot": false,
+      "ro": false
+    },
+    "warns": {},
+    "notes": {},
+    "filters": {},
+    "blacklist": [],
+    "floodData": {}
+  },
+  "-1001773080086": {
+    "id": -1001773080086,
+    "settings": {
+      "welcome": "Selamat datang {mention} di *{group}*!\nSenang kamu bergabung",
+      "bye": "👋 Sampai jumpa *{name}*! Semoga sukses.",
+      "welcomeEnabled": true,
+      "byeEnabled": true,
+      "rules": "",
+      "antilink": true,
+      "antiflood": 0,
+      "antiforward": true,
+      "maxwarn": 3,
+      "locks": {
+        "sticker": false,
+        "gif": false,
+        "photo": false,
+        "video": false,
+        "audio": false,
+        "document": false,
+        "url": false,
+        "forward": false,
+        "bot": false
+      },
+      "antibot": false,
+      "ro": false
+    },
+    "warns": {},
+    "notes": {},
+    "filters": {},
+    "blacklist": [],
+    "floodData": {}
+  },
+  "-1002498740030": {
+    "id": -1002498740030,
+    "settings": {
+      "welcome": "👋 Selamat datang {mention} di <b>{group}</b>!\nSenang kamu bergabung 🎉",
+      "bye": "👋 Sampai jumpa <b>{name}</b>! Semoga sukses.",
+      "welcomeEnabled": true,
+      "byeEnabled": true,
+      "rules": "",
+      "antilink": false,
+      "antiflood": 0,
+      "antiforward": false,
+      "antibot": false,
+      "ro": false,
+      "maxwarn": 3,
+      "locks": {
+        "sticker": false,
+        "gif": false,
+        "photo": false,
+        "video": false,
+        "audio": false,
+        "document": false,
+        "url": false,
+        "forward": false,
+        "bot": false
+      }
+    },
+    "warns": {},
+    "notes": {},
+    "filters": {},
+    "blacklist": [],
+    "floodData": {}
+  },
+  "-1001926184078": {
+    "id": -1001926184078,
+    "settings": {
+      "welcome": "👋 Selamat datang {mention} di <b>{group}</b>!\nSenang kamu bergabung 🎉",
+      "bye": "👋 Sampai jumpa <b>{name}</b>! Semoga sukses.",
+      "welcomeEnabled": true,
+      "byeEnabled": true,
+      "rules": "",
+      "antilink": false,
+      "antiflood": 0,
+      "antiforward": false,
+      "antibot": false,
+      "ro": false,
+      "maxwarn": 3,
+      "locks": {
+        "sticker": false,
+        "gif": false,
+        "photo": false,
+        "video": false,
+        "audio": false,
+        "document": false,
+        "url": false,
+        "forward": false,
+        "bot": false
+      }
+    },
+    "warns": {},
+    "notes": {},
+    "filters": {},
+    "blacklist": [],
+    "floodData": {}
+  }
+}

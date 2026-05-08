@@ -1,0 +1,15 @@
+{
+  "token": "GANTI_TOKEN_BOTMU",
+  "ownerID": "1618920755",
+  "ownerName": "VynaaValerie",
+  "ownerLink": "https://t.me/VynaaValerie",
+  "ownerWA": "https://wa.me/6282389924037",
+  "botName": "VynaaAI",
+  "channelLink": "https://t.me/VynaaMD",
+  "vtechApiKey": "WAJIB_ISI",
+  "dailyLimit": 20,
+  "premiumLimit": 999,
+  "timezone": "Asia/Jakarta",
+  "vtechApiUrl": "https://api.vtech.biz.id",
+  "maintenance": false
+}
